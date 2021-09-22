@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.menu ul{
+     margin: 0;
+     background-color: brown;
+     list-style: none;
+ }
+  
+.menu ul li{
+    display: inline;
+
+}
+.menu ul li a{
+    padding: 10px 5px;
+    margin-left: 2%;
+    display: inline-block;
+    color: cornsilk;
+    text-decoration: none;
+}
+.menu ul li a:hover{
+    color: rgb(0, 3, 3);
+}
+.section-banner{
+    background-color: rgb(17, 182, 182);
+    width: 1100px;
+    height: 230px;
+    margin-top: 1px;
+    float: right;
+    box-sizing: border-box;
+    padding-left: 450px;
+}
+.section-informativo-principal{
+    background-color:rgb(36, 173, 32);
+   
+    
+}
+ aside{
+     background-color: rgb(212, 45, 45);
+     width: 179px;
+     height: 600px;
+     float: right; 
+     margin-top: 1px;
+     margin-right: 1px;
+     list-style: none;
+ }
+ footer{
+    background-color: rgb(30, 158, 109);
+    width: 1279px;
+    height: 20px;
+     
+    margin-top: 1px;
+    display: inline-block;
+
+ }
